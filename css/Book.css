@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#a{
+    /* border: 1px solid red; */
+    display: flex;
+    position: relative;
+    height: 30%;
+    width: 50%;
+    top:30%;
+    left:30%
+    
+}
+p{
+    font-weight : bold;
+    font-size: 80px;
+
+}

@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Modals */
+.form-control{
+    height: 30px;
+}
+.input-group .input-group-text i {
+    width: 14px;
+}
+
+input[type="radio"] {
+    position: relative;
+    top: 1px;
+}
+
+#login-modal .modal-dialog {
+    width: 350px;
+    margin: auto;
+}
+.modal-footer {
+    background-color: #f4f4f4;
+    justify-content: center;
+}
+
+/*Login and signup Buttons in Modal*/
+#CreAc{
+    width: 100%;
+}
+
+#Log{
+    width: 100%;
+}
+
+/*Search bar and background*/
+.search{
+    height: 69%;
+    width: 100%;
+    position: relative;
+}
+
+#Img{
+    filter: brightness(60%);
+    height: 100%;
+    width: 100%;
+}
+
+.Texts{
+    position: absolute;
+    top: 54%;
+    left: 34%;
+    height:30px;
+    width: 350px;
+}
+
+#srb{
+    position: absolute;
+    top: 54%;
+    left: 60%;
+    height: 30px;  
+}
+
+#TS{
+    height:100%;
+    width: 100%;
+}
+
+.Quote{
+    position: absolute; 
+    top: 42%;
+    left: 36%;
+    color: white;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+/* Cities Icons */
+.MajorCities{
+    height: 60%;
+    width: 100%;
+    position: relative;
+}
+.Quote1{
+    position: absolute; 
+    top: 12%;
+    left: 45%;
+    color: black;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.circles{
+    position: absolute;
+    height: 55%;
+    width: 60%;
+    bottom: 10%;
+    left: 20%;
+}
+
+#bt1{
+    border-radius: 80%;
+    border-color: white;
+    background-color: white;
+    height:100%;
+    width:24%;
+}
+#MJ1{
+      height: 100%;
+      width: 70%;
+}
