@@ -31,8 +31,9 @@ searching houses in their respected localities.
 - **Property detail :**  It contains all the information about the property.
   
 ## 📷 Screenshot
-![Screenshot 2023-10-27 205510](https://github.com/ShrirangKanade/Paying-Guest-Life-Website/assets/110344056/e71b1dec-c4f5-4523-ac2d-9accd524fca3)
 
+
+![Final_SS](https://github.com/ShrirangKanade/Paying-Guest-Life-Website/assets/110344056/909911e7-9900-4e48-a6b4-a7499bab822b)
 
 
 ## 😇 Feedback
